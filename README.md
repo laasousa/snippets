@@ -5,5 +5,5 @@ These are simple example [RStudio code snippets](http://blog.rstudio.org/2015/04
 
 ```
 library(snippr)
-snippets_install_github("dgrtwo/snippets")
+snippets_install_github("tjmahr/snippets")
 ```
